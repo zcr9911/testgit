@@ -1,3 +1,2 @@
 print('lyy')
-for i in range(5):
-    print('hello zxx...')
+print('zxxxxxx')
